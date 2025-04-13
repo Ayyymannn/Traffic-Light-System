@@ -7,8 +7,10 @@ intersection that has a single traffic light. The system has three main componen
 - Traffic Light
 - LEDs (Representing Cars)
 
-https://github.com/user-attachments/assets/9a1311b6-884a-4982-a363-977bb91874d0
+
+https://github.com/user-attachments/assets/731abd5a-f1ac-415c-8b8c-220328d67d9b
 
 
+![IMG_2737](https://github.com/user-attachments/assets/859307af-6e9e-4a5f-8acb-f9c7622b8507)
 
-![IMG_2737](https://github.com/user-attachments/assets/4274680e-641c-4a20-8a3c-c56aafa7acae)
+
