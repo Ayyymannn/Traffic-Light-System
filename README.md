@@ -1,4 +1,4 @@
-# Project 1: Traffic Light System
+# Project: Traffic Light System
 
 The Traffic Light System simulates vehicle traffic on a one-way, one-lane road with an
 intersection that has a single traffic light. The system has three main components:
